@@ -1,0 +1,54 @@
+<h1><strong>MOBILE APPS</strong></h1>
+<p><strong>do you know that all our life based on these apps everyday .</strong></p>
+<ol style="list-style-type: upper-alpha;">
+<li><span style="font-weight: 400;">Many companies build their mobile applications to expand their business and unlock market reach like never before. Considering the time we are in, the digital age is quickly enabling users to adopt new technology as businesses catch up with it and look for new ways to offer their services. </span><span class="nitro-offscreen" style="font-weight: 400;">If you are the one who does not have the mobile app for your business, you must first know the benefits of having a mobile app. You are missing out on a big chance to attract potential customers, no matter how far they are without a mobile app.&nbsp;</span></li>
+</ol>
+<p class="nitro-offscreen"><span style="font-weight: 400;">The importance of mobile app development for business is evident today, as more and more users are looking to get things done virtually. On the other hand, businesses too, are changing the way they function. They understand the benefits of mobile apps for businesses and provide an easy way for end-users to instantly access company details and simultaneously keep them connected to their favorite brand and stay up to date.</span></p>
+<p>&nbsp;</p>
+<p><strong>you can check <a title="first source" href="https://www.intelivita.com/blog/benefit-having-mobile-app-business/" target="_blank" rel="noopener">visit here</a></strong></p>
+<p>&nbsp;</p>
+<p><strong><img src="http://proceedinteractive.com/wp-content/uploads/2017/10/Mobile-App-Development.png" alt="" width="371" height="236" /></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h1>1- benifits</h1>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src="https://decode.agency/wp-content/uploads/2021/02/Slika2.svg" alt="Benifits" width="800" height="756" /></p>
+<p><strong><a title="refrence to benifits" href="https://decode.agency/benefits-mobile-apps-business/" target="_blank" rel="noopener">reference</a></strong></p>
+<p>&nbsp;</p>
+<h2>2. Build a Stronger Brand</h2>
+<p>The more value you offer your customers, the more interest they develop in your brand. However, it is impossible to achieve a deep brand experience without deliberate branding efforts.&nbsp;</p>
+<p>Here&rsquo;s where branded mobile apps come in.&nbsp;</p>
+<p>More than old-school brand marketing options such as TV or outdoor advertising, branded apps have proven highly effective in recent years.</p>
+<div class="blockquote-block">
+<div class="blockquote-block__wrapper blockquote-block__wrapper--black blockquote-block__wrapper--default">
+<p><span style="font-weight: 400;">Marketing agencies are using mobile apps to boost brand awareness and sustain a flourishing relationship with their consumers. </span></p>
+</div>
+</div>
+<p>Mobile devices are now a highly integral part of our everyday lives, seeing a high amount of usage time. App owners can leverage this channel to their brand&rsquo;s benefit.</p>
+<p>The more branding elements (logos, color combination, etc.) you get right within your app, the better the impact you can expect on your brand marketing results.&nbsp;</p>
+<p>You can even use the data collected from this app to understand your target audience better and improve your brand marketing strategy.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>3. Connect With Your Customers Fast and Easy</h2>
+<p>If there&rsquo;s one thing that greatly influences customer satisfaction, it&rsquo;s how quickly and easily accessible information about a business is.&nbsp;</p>
+<p>At times, the major difference between a lead and conversion is the support&rsquo;s response speed.&nbsp;</p>
+<p>If you&rsquo;re looking to deliver your customers the best communication speed possible, a dedicated mobile app may be the missing link.</p>
+<p>Unlike websites and other channels, a mobile app is much more reliable, personalized, and convenient. Considering that they can log in with their contact information, customers don&rsquo;t have to worry about losing track of their support requests.&nbsp;</p>
+<p>Similarly, your employees can easily access this information as well. This will help them serve the clients faster and better.</p>
+<p>Beyond support, mobile apps are great for requesting and collecting customer feedback.&nbsp;</p>
+<p>In the past, businesses relied on multiple surveys and data from various sources. However, mobile content makes it possible to achieve all the feedback generation you need in one place.</p>
+<p>As a bonus, you can add a live chat support feature to your app. This not only boosts customer satisfaction but also drives engagement as well.</p>
+<p>If properly implemented, near-instant replies from in-app live chat can have a dramatic positive impact on your sales and brand in general.</p>
+<h2>4. Improve Customer Loyalty</h2>
+<p>A high customer retention rate is a major component of almost every successful business. It&rsquo;s often possible to maintain a high retention rate by offering great value to your customers and ensuring that they&rsquo;re always satisfied.&nbsp;</p>
+<p>However, loyalty programs are a good way to take things a step further.</p>
+<p>While running a loyalty program is a great idea, business owners often miss the mark and end up developing a program that is hard to join.&nbsp;</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"></figure>
+<h3><a href="https://www.intelivita.com/blog/benefit-having-mobile-app-business/" target="_blank" rel="noopener">you can check</a>&nbsp; : <a href="https://en.wikipedia.org/wiki/Mobile_app" target="_blank" rel="noopener">wikipedia about mobile apps</a></h3>
+</div>
